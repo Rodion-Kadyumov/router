@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/router/static/css/main.781f14d9.css",
+    "main.js": "/router/static/js/main.f0d7413f.js",
+    "static/js/488.8d86d380.chunk.js": "/router/static/js/488.8d86d380.chunk.js",
+    "static/media/krossovki-puma-trinity-mid-hybrid-leather-393985-02-3-1000x800.jpg": "/router/static/media/krossovki-puma-trinity-mid-hybrid-leather-393985-02-3-1000x800.9f97347aa4aedf5ce8f2.jpg",
+    "static/media/kedy-puma-suede-classic-xxi-374915-01-20-1000x800.jpg": "/router/static/media/kedy-puma-suede-classic-xxi-374915-01-20-1000x800.5b62a6099201ef0f591c.jpg",
+    "static/media/krossovki-puma-trinity-open-road-393361-02-3-1000x800.jpg": "/router/static/media/krossovki-puma-trinity-open-road-393361-02-3-1000x800.af679ec3b38dc2d08574.jpg",
+    "static/media/PostMove_Mid_Cloudfoam_Super_Lifestyle_Basketball_Mid_Classic_Shoes_Black_GY7163_01_standard.webp": "/router/static/media/PostMove_Mid_Cloudfoam_Super_Lifestyle_Basketball_Mid_Classic_Shoes_Black_GY7163_01_standard.4c2aceb4853292b5eab9.webp",
+    "static/media/AdiFOM_TRXN_Shoes_Black_IG7453_01_standard.webp": "/router/static/media/AdiFOM_TRXN_Shoes_Black_IG7453_01_standard.b43badfb5bc18129337b.webp",
+    "static/media/Superstar_XLG_Shoes_Black_IG9777_01_standard.webp": "/router/static/media/Superstar_XLG_Shoes_Black_IG9777_01_standard.bfcb34a2e48044d7f26f.webp",
+    "index.html": "/router/index.html",
+    "main.781f14d9.css.map": "/router/static/css/main.781f14d9.css.map",
+    "main.f0d7413f.js.map": "/router/static/js/main.f0d7413f.js.map",
+    "488.8d86d380.chunk.js.map": "/router/static/js/488.8d86d380.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.781f14d9.css",
+    "static/js/main.f0d7413f.js"
+  ]
+}
