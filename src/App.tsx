@@ -2,7 +2,6 @@ import React from 'react';
 import styles from "./components/Site.module.css";
 import { NavLink, Outlet, useNavigate } from 'react-router-dom';
 import { S } from './components/pages/_styles';
-import { Link } from 'react-router-dom';
 
 const PATH = {
   ADIDAS: '/adidas',
